@@ -33,7 +33,8 @@
 		<P><a href="https://en.wikipedia.org/wiki/Palm_oil">Here</a> is the Wikipedia page on palm oil </P>
 		<p> <a href="https://en.wikipedia.org/wiki/Soybean_oil">Here</a> is the Wikipedia page on soya bean oil</p>
 		<p><a href="https://en.wikipedia.org/wiki/Vegetable_oil">Here</a> is the Wikipedia page on vegetable oil</p>
-		<p>Here is an image of Al-Batoul vegetable oil, soya bean oil and palm oil</p> <br> <img src="github website/IMG-20201114-WA0005.jpg" width=60%>
+		<p>Here is an image of Al-Batoul vegetable oil, soya bean oil and palm oil</p> <br>
+		 <img src="github website/IMG-20201114-WA0005.jpg" width=60%>
 			<p id="benefits"> The benefits of palm oil include: <sup>source:excelvite.com</sup></p> <ul>
 				<li>It reduces cholesterol levels </li>
 				<li>It slows the progression of heart disease</li>
