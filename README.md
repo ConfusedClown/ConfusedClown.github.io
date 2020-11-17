@@ -26,7 +26,7 @@
 <body id="grad">
 <h1 class="head"> Welcome to Al-Batoul </h1>
 	<div align="center"><img src="github website/pixlr-bg-result.png" width="70%" height="%"></div>
-	<p> <ul class="logo">
+	<p> <div class="logo" <ul>
 		<h3><li><a href="#Founder">The Founder</a></li></h3>
 		<h3><li><a href="#benefits">Benefits</a></li>
 	</ul> </p>
