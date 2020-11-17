@@ -3,7 +3,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>www.Al-Batoul.com</title>
+	<title>www.Al-Batoul.com
+	</title>
 	<style>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		a {color: blue}
@@ -14,19 +15,17 @@
 		.head {text-align: center; size: 10%}
 		a:visited {color: blue}
 		#grad {background-image: linear-gradient(red, yellow,white);}
-			button {text-transform: uppercase;
+		button {text-transform: uppercase;
 				font-family: fantasy;
 				border-radius: 20px;
 				background:transparent;
 				color: black;}
-				.logo {
-					width:25%;
-					list-style: none;
-					padding: 30px auto;
-					display: flex;
-					justify-content: space-between;
-				}
-			</style>	
+		.logo {width:25%;
+		list-style: none;
+		padding: 30px auto;
+		display: flex;
+		justify-content: space-between;}
+</style>	
 </head>
 <body id="grad">
 <h1 class="head"> Welcome to Al-Batoul </h1>
