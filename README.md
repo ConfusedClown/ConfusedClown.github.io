@@ -18,7 +18,7 @@
 				color: black;}
 		.logo {width:25%;
 		list-style: none;
-		padding: 30px auto;
+		padding: 60px auto;
 		display: flex;
 		justify-content: space-between;}
 </style>	
@@ -26,10 +26,9 @@
 <body id="grad">
 <h1 class="head"> Welcome to Al-Batoul </h1>
 	<div align="center"><img src="github website/pixlr-bg-result.png" width="70%" height="%"></div>
-	<p> <div class="logo">
+	<div class="logo">
 		<h3><li><a href="#Founder">The Founder</a></li></h3>
-		<h3><li><a href="#benefits">Benefits</a></li>
-	</p> </div>
+		<h3><li><a href="#benefits">Benefits</a></li></h3> </div>
 	 <div align="center">   <p>Al-Batoul is the first nationally accredited vendor of palm oil, vegetable oil and soya bean oil to the national market owned by a private investor.</p> <p> The Company was created on November the 14th of 2020 by Abba Bukar. Al-Batoul is a premium brand of cooking oil originating from the South of Nigeria in Anambra State.</p> <p> The cooking oil is processed using the latest extracting technology, achieveing a 100% rate of success with every kernal processed.</p> <p>Using our highly advanced technology at AL-Batoul we are able to completely clear the kernals of all impurities creating a near perfect, clear and fresh cooking oil.</p> <p> The kernels are transported by the lorry load from the South of Nigeria to our base of opertaions at Abuja where they are processed under the supervision of the Founder's family.</p> <p> All kegs of Al-Batoul oil must go through the highly strict purity test employed by the qualified staff of Batoul Nig LTD.</p> <p> We as a company strive for the greatest quality oil ensuring the satisfactory reviews of our customers.</p> <p> We as a company are fully accredited by all the necessary international and national bodies of food distribution and control.</p> <p> Ensuring a top-notch excellent product certified by all respective food processing bodies. To view our certificates press this </p> <button class=""> button.</button>
 		<P><a href="https://en.wikipedia.org/wiki/Palm_oil">Here</a> is the Wikipedia page on palm oil </P>
 		<p> <a href="https://en.wikipedia.org/wiki/Soybean_oil">Here</a> is the Wikipedia page on soya bean oil</p>
