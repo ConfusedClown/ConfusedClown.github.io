@@ -27,7 +27,7 @@
 </head>
 <body id="grad">
 <h1 class="head"> Welcome to Al-Batoul </h1>
-	<div align="center"><img src="file:///C:/Users/Muhammad/Downloads/pixlr-bg-result.png" width="70%" height="%"></div>
+	<div align="center"><img src="https://github.com/ConfusedClown/ConfusedClown.github.io" width="70%" height="%"></div>
 	<p> <ul class="logo">
 		<h3><li><a href="#Founder">The Founder</a></li></h3>
 		<h3><li><a href="#benefits">Benefits</a></li>
